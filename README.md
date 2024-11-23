@@ -1,1 +1,1 @@
-# Bayesian-Thermal-Comfort-Data-Enhancer
+# Bayesian Mean Thermal Sensation Vote Calculator
