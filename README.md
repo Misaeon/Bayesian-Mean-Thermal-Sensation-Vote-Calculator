@@ -1,6 +1,8 @@
 # Bayesian Mean Thermal Sensation Vote Calculator
-This open software is being developed in conjunction with a research paper currently under review by the Journal of Building Engineering.
+The software was developed in conjunction with a research paper entitled "A novel approach to calculate the mean thermal sensation vote for primary and secondary schools using Bayesian inference" published in the Journal of Building Engineering.
 
-This page will be updated once the paper is accepted and available online. 
+Please refer to the paper for detailed methodology and instructions: https://doi.org/10.1016/j.jobe.2024.111595
 
-Due to the size limitation of the uploaded file on Github, the software can be downloaded from: https://tinyurl.com/2ap7l9jh
+Due to the size limitation of the uploaded file on Github, the software can be downloaded from: https://tinyurl.com/MTSVcalculator
+
+Citation: Miao, S.*, Gangolells, M., & Tejedor, B. 2024. A novel approach to calculate the mean thermal sensation vote for primary and secondary schools using Bayesian inference. Journal of Building Engineering, 99, 111595. DOI: 10.1016/j.jobe.2024.111595.
