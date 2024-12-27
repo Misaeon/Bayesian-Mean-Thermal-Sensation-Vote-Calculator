@@ -1,5 +1,5 @@
 # Bayesian Mean Thermal Sensation Vote Calculator
-The software was developed in conjunction with a research paper entitled "A novel approach to calculate the mean thermal sensation vote for primary and secondary schools using Bayesian inference" published in the Journal of Building Engineering.
+The software was developed in conjunction with a research paper entitled "**A novel approach to calculate the mean thermal sensation vote for primary and secondary schools using Bayesian inference**" published in the Journal of Building Engineering.
 
 Please refer to the paper for detailed methodology and instructions: https://doi.org/10.1016/j.jobe.2024.111595
 
