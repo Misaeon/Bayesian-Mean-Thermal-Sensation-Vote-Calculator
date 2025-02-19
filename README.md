@@ -3,7 +3,7 @@ The software was developed in conjunction with a research paper entitled "**A no
 
 ![BMTSV](https://github.com/user-attachments/assets/a658f390-df80-4f99-a67b-c71d3e10a135)
 
-This novel method calculates the Mean Thermal Sensation Vote (MTSV) based on Bayesian inference, which takes into account the uncertainty associated with the Thermal Sensation Votes (TSV) collected in field surveys in educational buildings. The software is capable of calculating PMV, observed MTSV, and Bayesian inference-enhanced MTSV based on data of measured indoor thermal parameters and collected TSV.
+This novel method calculates the **Mean Thermal Sensation Vote (MTSV)** based on **Bayesian inference**, which takes into account the **uncertainty** associated with the **Thermal Sensation Votes (TSV)** collected in field surveys in educational buildings. The software is capable of calculating **PMV index**, **observed MTSV**, and Bayesian inference- **enhanced MTSV** based on data of measured indoor thermal parameters and collected TSV.
 
 Please refer to the paper for detailed methodology and instructions: https://doi.org/10.1016/j.jobe.2024.111595
 
